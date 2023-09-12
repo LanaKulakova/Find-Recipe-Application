@@ -15,7 +15,7 @@ function App() {
 
 const [mySearch, setMySearch] = useState('');
 const [myRecipes, setMyRecipes] = useState([]);
-const [wordSubmitted, setWordSubmitted] = useState('avocado');
+const [wordSubmitted, setWordSubmitted] = useState('vegetables');
 
   //вызов API
 useEffect (() => {

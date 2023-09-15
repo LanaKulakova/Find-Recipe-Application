@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import video from "./video.mp4";
 import './App.css';
-import MyRecipesComponents from "./myRecipesComponent";
+import MyRecipesComponents from "./MyRecipesComponent";
 
 
 // ID = 36d99227

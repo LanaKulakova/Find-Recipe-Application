@@ -7,7 +7,7 @@ function MyRecipesComponents({label, image, calories, cuisine, ingredients}) {
             </div>
 
             <div className="container">
-            <img src ={image} />
+            <img src ={image} alt="food" />
             </div>
 
 <ul className="container list">

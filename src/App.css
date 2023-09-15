@@ -52,9 +52,13 @@ li {
 
 }
 
-h1, h2, ul, {
+h2, ul, {
   font-family: 'Open Sans', sans-serif;
   
+}
+
+h1 {
+  font-family: 'Roboto', sans-serif;
 }
 
 p {

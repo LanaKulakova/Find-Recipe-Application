@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Find-Recipe-Application/static/css/main.c24daa67.css",
+    "main.js": "/Find-Recipe-Application/static/js/main.f3925eaa.js",
+    "static/js/787.17f4a24c.chunk.js": "/Find-Recipe-Application/static/js/787.17f4a24c.chunk.js",
+    "static/media/video.mp4": "/Find-Recipe-Application/static/media/video.65249b1360450195aeee.mp4",
+    "index.html": "/Find-Recipe-Application/index.html",
+    "main.c24daa67.css.map": "/Find-Recipe-Application/static/css/main.c24daa67.css.map",
+    "main.f3925eaa.js.map": "/Find-Recipe-Application/static/js/main.f3925eaa.js.map",
+    "787.17f4a24c.chunk.js.map": "/Find-Recipe-Application/static/js/787.17f4a24c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c24daa67.css",
+    "static/js/main.f3925eaa.js"
+  ]
+}
